@@ -1,4 +1,4 @@
-#21-Day C Programming Challenge
+### 21-Day C Programming Challenge
 - Welcome to the 21-Day C Programming Challenge!
 This challenge is designed to help you learn and improve your skills in C programming over the course of 21 days. 
 - Each day, you will focus on specific topics, complete coding exercises, 
